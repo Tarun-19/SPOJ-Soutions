@@ -1,4 +1,6 @@
 # CRZYSMKR - Crazy Smoker
+# Author: Tarun Kumar
+# E-mail: tarunkumar281200@gmail.com
 
 from sys import stdin, stdout
 # t=int(raw_input())

@@ -1,4 +1,6 @@
 //GPA1 - GRADE POINT AVERAGE
+// Author: Tarun Kumar
+// E-mail: tarunkumar281200@gmail.com
 
 #include <iostream>
 #include <algorithm>

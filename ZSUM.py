@@ -1,4 +1,6 @@
-#ZSUM - Just Add It
+# ZSUM - Just Add It
+# Author: Tarun Kumar
+# E-mail: tarunkumar281200@gmail.com
 
 import math
 while(True):

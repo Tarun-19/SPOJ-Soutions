@@ -1,4 +1,6 @@
-#PLAYGAME - PLAYGAME
+# PLAYGAME - PLAYGAME
+# Author: Tarun Kumar
+# E-mail: tarunkumar281200@gmail.com
 
 t=int(input())
 while(t>0):

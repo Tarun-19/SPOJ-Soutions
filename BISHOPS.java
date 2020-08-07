@@ -1,4 +1,6 @@
 //BISHOPS - Bishops
+// Author: Tarun Kumar
+// E-mail: tarunkumar281200@gmail.com
 
 import java.io.*;
 import java.util.*;

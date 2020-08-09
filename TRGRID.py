@@ -1,7 +1,7 @@
-// TRGRID - Traversing Grid
+# TRGRID - Traversing Grid
 
-// Author: Tarun Kumar
-// E-mail: tarunkumar281200@gmail.com
+# Author: Tarun Kumar
+# E-mail: tarunkumar281200@gmail.com
 
 t=int(input())
 while(t>0):

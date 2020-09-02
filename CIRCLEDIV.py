@@ -1,7 +1,7 @@
-// CIRCLEDIV - Euler Puzzle
+# CIRCLEDIV - Euler Puzzle
 
-// Author: Tarun Kumar
-// E-mail: tarunkumar281200@gmail.com
+# Author: Tarun Kumar
+# E-mail: tarunkumar281200@gmail.com
 
 from sys import stdin, stdout
 t=int(stdin.readline())
